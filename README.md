@@ -38,22 +38,22 @@ You can see the available commands by running:
 ### 4. Example Commands 💡
 Here are some example commands you can use:
 
-## 📝 Add a Task
+# 📝 Add a Task
 ```bash
 ./todo-list add "Buy groceries"
 ```
 
-## 👀 List All Tasks
+# 👀 List All Tasks
 ```bash
 ./todo-list list
 ```
 
-## ✅ Mark a Task as Complete
+# ✅ Mark a Task as Complete
 ```bash
 ./todo-list complete 1
 ```
 
-## 🗑️ Remove a Task
+# 🗑️ Remove a Task
 ```bash
 ./todo-list remove 1
 ```
